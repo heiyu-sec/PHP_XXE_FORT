@@ -1,0 +1,1 @@
+<?php file_put_contents("record.txt",$_GET["id"],FILE_APPEND);?>
