@@ -7,7 +7,8 @@
 
 
 查看数据请到record.txt中查看
-![image](https://user-images.githubusercontent.com/9106422/161689047-d38b6c28-d7ec-4aec-9603-2b75c7350bcf.png)
+
+![image](https://user-images.githubusercontent.com/9106422/161689110-a6961454-7220-4717-b76d-7789c51bdb54.png)
 
 
 
